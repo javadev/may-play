@@ -4,14 +4,14 @@
   "author": "Sergiy Skye Murygin & Myroslava Yurchyshyn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skyiea/may-play.git"
+    "url": "https://github.com/javadev/may-play.git"
   },
   "license": "ISC",
   "private": true,
   "bugs": {
-    "url": "https://github.com/skyiea/may-play/issues"
+    "url": "https://github.com/javadev/may-play/issues"
   },
-  "homepage": "https://github.com/skyiea/may-play",
+  "homepage": "https://github.com/javadev/may-play",
   "scripts": {
     "prepare": "npm install -g webpack webpack-dev-server && npm install",
     "start": "node --harmony_destructuring ./backend/server.js",
