@@ -1,7 +1,7 @@
 {
   "name": "may-play",
-  "version": "0.0.0",
-  "author": "Sergiy Skye Murygin & Myroslava Yurchyshyn",
+  "version": "1.0.0",
+  "author": "Sergiy Skye Murygin, Myroslava Yurchyshyn and Valentyn Kolesnikov",
   "repository": {
     "type": "git",
     "url": "https://github.com/javadev/may-play.git"
